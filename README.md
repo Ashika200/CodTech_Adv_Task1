@@ -1,3 +1,4 @@
+
 # Big Data Analysis Using PySpark
 
 ## Overview
@@ -35,12 +36,7 @@ This project demonstrates the analysis of a large dataset using **PySpark**, a p
 ### Software
 - Python 3.8+
 - Apache Spark (via PySpark)
-
-### Dependencies
-Install the required library using:
-```bash
-pip install pyspark
-
+  
 ### How to Run the Notebook
 Ensure PySpark is installed and configured in your environment.
 Download and place the dataset (e.g., yellow_tripdata_2019-01.csv) in the appropriate directory.
@@ -52,4 +48,12 @@ The dataset used in this project contains information about New York City yellow
 Pickup and drop-off times
 Trip distances
 Fare amounts
+
+### Dependencies
+Install the required library using:
+```bash
+pip install pyspark
+
+
+
 
